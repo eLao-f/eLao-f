@@ -1,4 +1,4 @@
-### Hi there 👋
+[![An image of @elaof's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elaof)](https://holopin.io/@elaof)
 
 <!--
 **eLao-f/eLao-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
